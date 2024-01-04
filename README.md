@@ -24,7 +24,7 @@ With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-soc
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="60" height="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="60" height="60">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--tMai_cRx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4jbiijckmk65al45e6x.jpg" width="120" height="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Webpack.svg/1024px-Webpack.svg.png" width="120" height="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Webpack.svg/1024px-Webpack.svg.png" width="150" height="60">
 </div>
 
 #### 📫 How to reach me:
