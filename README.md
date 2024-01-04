@@ -12,7 +12,7 @@ With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-soc
 🌱 I’m currently learning React Native, PostgreSQL, Typescript
 
 ## My Stack:
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; margin-right: 20px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60" height="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="60" height="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="60" height="60">
