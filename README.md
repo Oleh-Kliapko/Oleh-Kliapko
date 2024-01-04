@@ -12,7 +12,7 @@ With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-soc
 🌱 I’m currently learning React Native, PostgreSQL, Typescript
 
 ## My Stack:
-(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
 
 📫 How to reach me:
 - [Telegram](https://t/me/Bayraktar_OK)
