@@ -15,7 +15,7 @@ With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-soc
 <div>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60" height="60">
 <img src="https://miro.medium.com/v2/resize:fit:1044/format:webp/1*NJSv6DGoKTloI8d8im98zg.png" width="100" height="60">
-<img src="https://codingovernight.com/wp-content/uploads/2020/08/reactnative.png" width="120" height="60">
+<img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="60" height="60">
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AJpFZrofvxMn3MHh9p3i_Q.jpeg" width="120" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="120" height="60">
 <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" width="60" height="60">
