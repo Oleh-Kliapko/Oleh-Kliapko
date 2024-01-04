@@ -12,7 +12,17 @@ With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-soc
 🌱 I’m currently learning React Native, PostgreSQL, Typescript
 
 ## My Stack:
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="70" height="70">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60" height="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="60" height="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="60" height="60">
+<img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" width="60" height="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="60" height="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="60" height="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="60" height="60">
+<img src="https://vite-docs-ru.vercel.app/logo.svg" width="60" height="60">
+<img src="" width="60" height="60">
+<img src="" width="60" height="60">
+<img src="" width="60" height="60">
 
 📫 How to reach me:
 - [Telegram](https://t/me/Bayraktar_OK)
