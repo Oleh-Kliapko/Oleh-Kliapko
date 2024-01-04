@@ -20,7 +20,7 @@ With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-soc
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="60" height="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="60" height="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="60" height="60">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--tMai_cRx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4jbiijckmk65al45e6x.jpg" width="60" height="60">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--tMai_cRx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4jbiijckmk65al45e6x.jpg" width="100" height="60">
 <img src="" width="60" height="60">
 <img src="" width="60" height="60">
 <img src="" width="60" height="60">
