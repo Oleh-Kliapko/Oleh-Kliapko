@@ -18,7 +18,7 @@ With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-soc
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AJpFZrofvxMn3MHh9p3i_Q.jpeg" width="120" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="120" height="60">
 <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" width="60" height="60">
-<img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png" width="120" height="60">
+<img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png" width="180" height="100">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="60" height="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="60" height="60">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--tMai_cRx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4jbiijckmk65al45e6x.jpg" width="120" height="60">
