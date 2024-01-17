@@ -2,6 +2,8 @@
 
 With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-socket, Vite technologies, I focus on the MERN stack but I know PostgreSQL also and can communicate in English (B1+).
 
+### [My portfolio](https://portfolio-kliapko.vercel.app)
+
 #### My previous experience within the financial sector provides me with significant advantages:
 - In-depth Financial Sector Knowledge - this is crucial for developing software solutions connected with the needs of the financial sector.
 - Strong soft skills - this allows me to interact seamlessly with diverse teams, fostering collaboration.
