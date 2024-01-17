@@ -11,7 +11,7 @@ With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-soc
 
 🔭 I’m currently working as a full-stack developer (50% back-end, 50% front-end) in commercial project [Zapchaztiulka](https://github.com/Zapchaztiulka)
 
-🌱 I’m currently learning React Native, PostgreSQL, Typescript
+🌱 I’m currently learning Next, React Native, PostgreSQL, Typescript
 
 ### My Stack:
 <div>
