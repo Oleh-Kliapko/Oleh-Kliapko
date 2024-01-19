@@ -9,12 +9,12 @@ With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-soc
 - Strong soft skills - this allows me to interact seamlessly with diverse teams, fostering collaboration.
 - Deeper understanding of Customer Needs - it allows me to provide insights geared towards optimizing business processes.
 
-🔭 I’m currently working as a full-stack developer (50% back-end, 50% front-end) in commercial project [Zapchaztiulka](https://github.com/Zapchaztiulka)
+🔭 I’m currently working as a full-stack developer (70% back-end, 30% front-end) in commercial project [Zapchaztiulka](https://github.com/Zapchaztiulka)
 
 🌱 I’m currently learning Next, React Native, PostgreSQL, Typescript
 
 ### My Stack:
-<div style='margin-bottom: 10px;'>
+<div>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60" height="60">
 <img src="https://miro.medium.com/v2/resize:fit:1044/format:webp/1*NJSv6DGoKTloI8d8im98zg.png" width="100" height="60">
 <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="100" height="60">
