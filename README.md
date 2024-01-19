@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-socket, Vite technologies, I focus on the MERN stack but I know PostgreSQL also and can communicate in English (B1+).
+⚡ I focus on the MERN stack and can communicate in English (B1+).
 
 ### Please see [my portfolio](https://portfolio-kliapko.vercel.app)
 
