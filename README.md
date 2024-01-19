@@ -20,7 +20,7 @@ With good knowledge of JavaScript, React, Redux, basic knowledge of Git, Web-soc
 <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="100" height="60">
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AJpFZrofvxMn3MHh9p3i_Q.jpeg" width="120" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="120" height="60">
-<img src="https://ik.imagekit.io/ably/ghost/prod/2021/03/socket-io-logo-1.jpeg?tr=w-1728,q-50" width="150" height="60">
+<img src="https://ik.imagekit.io/ably/ghost/prod/2021/03/socket-io-logo-1.jpeg?tr=w-1728,q-50" width="130" height="60">
 <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" width="60" height="60">
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XIMVb4ZQRfSS4ZnI6WfH0Q.jpeg" width="130" height="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="60" height="60">
