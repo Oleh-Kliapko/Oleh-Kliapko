@@ -9,7 +9,7 @@
 - Strong soft skills - this allows me to interact seamlessly with diverse teams, fostering collaboration.
 - Deeper understanding of Customer Needs - it allows me to provide insights geared towards optimizing business processes.
 
-🔭 I’m currently working as a full-stack developer (70% back-end, 30% front-end) in commercial project [Zapchaztiulka](https://github.com/Zapchaztiulka)
+🔭 I’m currently working as a Head of Project in Sense bank
 
 🌱 I’m currently learning Next, React Native, PostgreSQL, Typescript
 
