@@ -43,15 +43,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oleh-Kliapko&show_icons=true&hide_border=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleh-Kliapko&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
-
----
-
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-kliapko-693793266)
