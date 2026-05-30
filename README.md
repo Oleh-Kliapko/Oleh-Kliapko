@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Oleh Kliapko 👋</h1>
-
-<p align="center">
+<h2 align="center">
   <b>Banking Executive</b> · <b>Full-Stack Developer</b><br/>
   20+ years in retail & premium banking · building apps in React / React Native
-</p>
+</h2>
 
 <p align="center">
   <a href="https://my-portfolio-ten-gules-69.vercel.app">🌐 Portfolio</a> ·
