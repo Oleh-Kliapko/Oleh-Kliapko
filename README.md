@@ -2,7 +2,7 @@
 
 ⚡ I focus on the MERN stack and can communicate in English (B1+).
 
-### Please see [my portfolio](https://portfolio-kliapko.vercel.app)
+### Please see [my portfolio](https://oleh-kliapko-portfolio.vercel.app)
 
 #### My previous experience within the financial sector provides me with significant advantages:
 - In-depth Financial Sector Knowledge - this is crucial for developing software solutions connected with the needs of the financial sector.
